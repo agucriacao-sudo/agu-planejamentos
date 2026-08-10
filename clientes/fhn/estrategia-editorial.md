@@ -10,10 +10,12 @@
 
 - Segunda a sexta-feira.
 - 1 publicação principal por dia útil.
+- Essa frequência é mantida inclusive em feriados que caiam de segunda a sexta — feriados não geram automaticamente dias sem publicação.
 - A rotina de captação não reduz a frequência de publicação.
 - Dias de gravação, reuniões ou demandas operacionais não devem gerar automaticamente espaços vazios no calendário.
 - Quando houver janela intensa de captação, utilizar estrategicamente materiais já captados, carrosséis, cards, produtos, conteúdos de banco ou outros formatos compatíveis para manter a frequência.
-- Só deixar um dia útil sem publicação quando houver orientação explícita da Agência Agú ou justificativa estratégica excepcional.
+- Stories são conteúdos complementares (apoio, bastidor, cobertura) e não substituem a publicação principal do feed do dia.
+- Só deixar um dia útil sem publicação quando houver orientação explícita da Agência Agú.
 
 ## Lógica editorial por dia da semana
 
