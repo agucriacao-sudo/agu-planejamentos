@@ -26,6 +26,10 @@ Cada cliente tem sua própria subpasta (`clientes/<nome-do-cliente>/`) contendo:
 
 Novas pastas de cliente devem seguir sempre esse padrão de quatro arquivos.
 
+Clientes com operação de conteúdo mais complexa podem ter arquivos adicionais além dos quatro-base, quando a estratégia editorial contínua e o pipeline de produção antecipada do cliente exigirem controle próprio (ex.: `estrategia-editorial.md`, `pipeline-de-conteudo.md`). Quando existirem, esses arquivos também são de consulta obrigatória antes de qualquer planejamento mensal do cliente, na mesma lógica dos quatro-base.
+
+Atualmente, `clientes/fhn/` segue esse padrão estendido, com a seguinte ordem de consulta obrigatória antes de qualquer planejamento mensal: `posicionamento.md` → `informacoes.md` → `regras-de-conteudo.md` → `estrategia-editorial.md` → `pipeline-de-conteudo.md` → `historico.md`.
+
 ### `modelos/`
 
 Templates-base para criação de conteúdo, sem informações específicas de clientes:
