@@ -4,6 +4,17 @@
 >
 > Não excluir uma série ou lógica recorrente de um planejamento sem justificativa registrada.
 
+## Frequência de feed
+
+> Regra específica e permanente da FHN — não é apenas a referência aproximada do Método Agú (`metodo-agu/planejamento.md`). Em caso de leitura conjunta dos dois documentos, esta regra prevalece para a frequência de publicação da FHN.
+
+- Segunda a sexta-feira.
+- 1 publicação principal por dia útil.
+- A rotina de captação não reduz a frequência de publicação.
+- Dias de gravação, reuniões ou demandas operacionais não devem gerar automaticamente espaços vazios no calendário.
+- Quando houver janela intensa de captação, utilizar estrategicamente materiais já captados, carrosséis, cards, produtos, conteúdos de banco ou outros formatos compatíveis para manter a frequência.
+- Só deixar um dia útil sem publicação quando houver orientação explícita da Agência Agú ou justificativa estratégica excepcional.
+
 ## Lógica editorial por dia da semana
 
 Base recorrente — pode ser adaptada quando campanhas, datas ou prioridades exigirem:
