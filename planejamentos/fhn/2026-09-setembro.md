@@ -14,6 +14,7 @@
 
 - **Data exata da inauguração da Ponta Verde** — a fonte confirma apenas "setembro/2026", sem dia definido. **Nenhuma data foi atribuída.** Os dois conteúdos que dependem da abertura em si ficam registrados como conteúdos condicionais, marcados **[CONFIRMAR DATA]**, no final do calendário — não ocupam um dos 22 dias úteis do mês até que a data seja confirmada.
 - **Responsável e prazo formal de roteirização** dos conteúdos da janela de Arapiraca (8–11/09) — o pipeline exige que tudo esteja roteirizado antes da janela, mas não define quem e até quando. **[INFORMAÇÃO NECESSÁRIA]**.
+- **Briefing da Rafaela sobre a Maratona do Rio** — a publicação de 25/09 depende desse briefing acontecer a tempo; sem ele, não há material real para produzir o conteúdo. **[DEPENDE DE BRIEFING/INFORMAÇÕES DA RAFAELA]**.
 
 Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem dos parceiros do Natal, grafia "Susy/Suzy") são de meses futuros e não impactam setembro — não bloqueiam este planejamento.
 
@@ -36,7 +37,7 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 
   - O crescimento **geográfico e de produto** (Ponta Verde, MoroProtein) nunca aparece sozinho — sempre ancorado em pessoas reais (equipe, bastidores, uso real) ou em prova técnica (processo, conferência, formulação), nunca só como anúncio.
   - O crescimento **emocional** (Setembro Amarelo) é o contraponto que prova a tese: no mesmo mês em que a FHN abre uma loja e lança um produto, ela também abre uma conversa que não vende nada — reforçando que o cuidado vem antes do comércio.
-  - Os bastidores da produção antecipada (Farol, Arapiraca, definição do ciclo) entram no calendário como conteúdo de "visão de futuro" e "processo", não apenas como operação invisível — mostram que a expansão é feita com o mesmo cuidado técnico de sempre.
+  - A produção antecipada (Farol, Arapiraca, definição do ciclo) permanece em `Operação do Período`, sem virar conteúdo de feed em setembro — nenhuma delas tinha, nas fontes, justificativa editorial clara para publicação antecipada. A expansão da FHN aparece no calendário através da Ponta Verde, que tem justificativa editorial explícita na fonte.
   - Luciana, Cíntia e Mariana Rocha seguem como a prova mais concreta da tese: gente real, ancorando o mês inteiro.
 
 ## 3. DIRETRIZES PARA O CALENDÁRIO
@@ -226,7 +227,7 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - **OBJETIVO:** Conexão
 - **RECORTE / IDEIA DO POST:** Aparição leve da Rafaela (farmacêutica de Arapiraca) treinando para a Maratona do Rio — pilar "performance, esporte e vida ativa" (posicionamento.md), ainda não explorado no mês. Não antecipa a História dos Líderes completa dela, prevista para outubro.
 - **AÇÃO:** Que a pessoa conheça um pouco da Rafaela e queira acompanhar a jornada dela.
-- **STATUS:** A produzir
+- **STATUS:** [DEPENDE DE BRIEFING/INFORMAÇÕES DA RAFAELA] — o pipeline só confirma "briefing da Rafaela na Maratona do Rio ao longo do mês" (preparação, não material pronto). Recorte e material reais desta publicação dependem desse briefing acontecer a tempo; não produzir com base em suposições sobre a rotina de treino dela.
 
 ### 28/09 (segunda)
 - **FORMATO:** Carrossel (feed)
@@ -305,8 +306,8 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - Material da janela de Arapiraca (parceiros set–jan, Médicas de Verão) — publicação a partir de outubro.
 - Obra do Farol, gravação 1 — publicação a partir de janeiro/2027.
 
-**Preparação (não gera publicação em setembro além do teaser de 10/09)**
-- Briefing da Rafaela sobre a Maratona do Rio, ao longo do mês — conteúdo relacionado entra no calendário de outubro (Rafaela já prevista em História dos Líderes de outubro).
+**Preparação**
+- Briefing da Rafaela sobre a Maratona do Rio, ao longo do mês — dele depende a publicação de 25/09 (aparição leve dela treinando), marcada **[DEPENDE DE BRIEFING/INFORMAÇÕES DA RAFAELA]** no calendário. A História dos Líderes completa com Rafaela está prevista para outubro, não depende deste briefing pontual.
 
 **Dependências que podem bloquear os meses seguintes**
 - Se os ativos do ciclo out/nov/dez/jan não forem definidos por Liliane até meados de setembro, a série Produto de outubro a janeiro fica sem pauta.
