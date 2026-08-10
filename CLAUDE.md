@@ -9,11 +9,33 @@ Servir como fonte única de verdade para tudo que envolve a produção de conte�
 ## Estrutura do repositório
 
 ```
+metodo-agu/         # Regras globais da Agência Agú — consulta obrigatória para todos os clientes
 clientes/           # Uma pasta por cliente, com contexto e regras
 modelos/            # Templates reutilizáveis para planejamento e peças de conteúdo
 planejamentos/       # Planejamentos de conteúdo (calendários, pautas, etc.)
 referencias/         # Materiais de referência (benchmarks, exemplos, inspirações)
 ```
+
+## Hierarquia de consulta obrigatória
+
+Antes de gerar qualquer planejamento, estratégia, pauta, roteiro, carrossel ou sequência de stories, para qualquer cliente, consultar nesta ordem:
+
+1. `metodo-agu/` — regras globais da Agência Agú.
+2. `modelos/` — estrutura oficial do tipo de peça (planejamento, roteiro, carrossel, stories).
+3. Arquivos específicos do cliente (`clientes/<cliente>/posicionamento.md`, `informacoes.md`, `regras-de-conteudo.md`, e demais arquivos-base ou estendidos do cliente).
+4. Pipeline e histórico do cliente (`pipeline-de-conteudo.md` quando existir, e `historico.md`).
+
+As regras globais do Método Agú não substituem as regras específicas do cliente — quando houver conflito entre uma diretriz global e uma regra explícita do cliente, a regra do cliente prevalece, mas o global deve ser sempre consultado primeiro como base.
+
+### `metodo-agu/`
+
+Regras globais da Agência Agú, válidas para **todos** os clientes, a serem consultadas antes das regras específicas de cada marca:
+
+- `metodo.md` — visão geral do Método Agú.
+- `pilares.md` — pilares do método.
+- `seis-chapeus.md` — metodologia dos Seis Chapéus aplicada à criação de conteúdo.
+- `criterios-de-conteudo.md` — critérios gerais de avaliação e construção de conteúdo.
+- `planejamento.md` — diretrizes globais de planejamento, complementares (não substitutas) ao `modelos/modelo-planejamento.md`.
 
 ### `clientes/`
 
@@ -69,8 +91,8 @@ Materiais de apoio: benchmarks, relatórios de performance, exemplos de referên
 
 ## Diretrizes para trabalhar neste repositório
 
-- **Não inventar informações sobre clientes.** Toda informação de posicionamento, regras, histórico, datas, eventos, produtos, serviços ou resultados deve vir de fontes reais fornecidas pela agência ou pelo cliente. Na ausência de informação, sinalizar `[INFORMAÇÃO NECESSÁRIA]` — nunca preencher com suposições.
+- **Não inventar informações sobre clientes nem sobre o Método Agú.** Toda informação de posicionamento, regras, histórico, datas, eventos, produtos, serviços ou resultados — e toda regra registrada em `metodo-agu/` — deve vir de fontes reais fornecidas pela agência ou pelo cliente. Na ausência de informação, sinalizar `[INFORMAÇÃO NECESSÁRIA]` — nunca preencher com suposições.
 - Ao criar a pasta de um novo cliente, sempre incluir os quatro arquivos-base (`posicionamento.md`, `informacoes.md`, `regras-de-conteudo.md`, `historico.md`), mesmo que inicialmente vazios/em branco.
-- Ao criar planejamentos ou peças de conteúdo para um cliente específico, sempre consultar antes `clientes/<cliente>/posicionamento.md` e `clientes/<cliente>/regras-de-conteudo.md`.
+- Ao criar planejamentos ou peças de conteúdo para um cliente específico, sempre consultar antes `metodo-agu/`, depois `modelos/`, depois `clientes/<cliente>/posicionamento.md` e `clientes/<cliente>/regras-de-conteudo.md` — ver "Hierarquia de consulta obrigatória" acima.
 - Manter os arquivos de `modelos/` genéricos e reutilizáveis — sem referências a clientes específicos.
 - Preferir Markdown simples e objetivo, com seções claras, para que os arquivos sejam fáceis de ler e editar tanto por humanos quanto por IA.
