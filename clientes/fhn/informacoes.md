@@ -1,6 +1,15 @@
 # FHN — Informações Gerais
 
-> Antes de qualquer planejamento mensal da FHN, consultar obrigatoriamente, nesta ordem: `posicionamento.md` → `informacoes.md` → `regras-de-conteudo.md` → `estrategia-editorial.md` → `pipeline-de-conteudo.md` → `historico.md`.
+## Antes de gerar um planejamento mensal da FHN
+
+1. Consultar obrigatoriamente, nesta ordem: `posicionamento.md` → `informacoes.md` → `regras-de-conteudo.md` → `estrategia-editorial.md` → `pipeline-de-conteudo.md` → `historico.md`.
+2. Verificar se há itens `[CONFIRMAR]` ou `[INFORMAÇÃO NECESSÁRIA]` que impactam diretamente o mês solicitado — data, campanha, pessoa, produto ou publicação específica daquele mês.
+3. Se impactarem o calendário, listar essas pendências antes de apresentar o planejamento.
+4. Não bloquear o planejamento inteiro por causa de informações secundárias ausentes.
+5. Quando uma informação não confirmada puder ser evitada sem prejudicar a estratégia, seguir sem inventar — não force o uso do dado incerto.
+6. Quando a informação for indispensável para data, campanha, pessoa, produto ou publicação específica, sinalizar claramente `[CONFIRMAR]` dentro do próprio planejamento gerado.
+7. Nunca usar uma informação antiga se existir uma atualização mais recente em `pipeline-de-conteudo.md` ou `historico.md`.
+8. Ao final de cada planejamento executado, atualizar `historico.md` com os conteúdos efetivamente planejados e, quando informado, os que foram publicados.
 
 ## Segmento
 

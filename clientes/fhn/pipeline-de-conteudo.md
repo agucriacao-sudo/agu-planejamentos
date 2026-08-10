@@ -3,6 +3,8 @@
 > A FHN trabalha com produção antecipada: conteúdo pode ser gravado em um mês e publicado meses depois. Este arquivo registra o que precisa ser gravado, quando, o que depende de quê, responsáveis confirmados, prazos e o que ainda está pendente de confirmação.
 >
 > Datas e nomes marcados com **[CONFIRMAR]** não devem ser tratados como definitivos até validação.
+>
+> Antes de gerar um planejamento mensal, ver o checklist completo em `informacoes.md` — verificar apenas as pendências que impactam o mês solicitado, sem bloquear o planejamento por pendências secundárias.
 
 ## Regra geral de produção antecipada
 
