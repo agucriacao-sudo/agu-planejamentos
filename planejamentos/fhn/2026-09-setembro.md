@@ -4,6 +4,8 @@
 >
 > **Revisão desta versão:** aplica a regra permanente de frequência da FHN (1 publicação principal por dia útil, segunda a sexta — ver `estrategia-editorial.md`, seção "Frequência de feed") e revisa a distribuição de objetivos de conteúdo, que estava concentrada em Conexão na versão anterior.
 >
+> **Revisão adicional (auditoria Feed x Stories):** Stories não ocupam vaga do calendário principal de feed — apenas apoio, bastidor, cobertura ou complemento. Seis dias que estavam com Stories como formato ambíguo ou exclusivo (03/09, 10/09, 16/09, 17/09, 21/09, 28/09) foram corrigidos para um formato de feed, com Stories reposicionado como camada de apoio quando fizer sentido. Nenhuma pauta do planejamento original da FHN foi removida nesta revisão — auditoria de correspondência disponível no histórico da conversa com a agência.
+>
 > Este planejamento usa os **OBJETIVOS DE CONTEÚDO** do Método Agú (Autoridade, Conexão, Posicionamento, Crescimento, Oferta) — terminologia oficial da fonte, não "pilares" — e a fórmula **TEMA + OBJETIVO + RECORTE + FORMATO + AÇÃO** para cada conteúdo. A lógica editorial de dias da FHN (`estrategia-editorial.md`) orienta o **tema** de cada dia; o **objetivo** de cada publicação é definido pela função estratégica real do conteúdo, conforme o Método Agú.
 
 ## Itens [CONFIRMAR] que impactam setembro
@@ -86,12 +88,13 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - **STATUS:** A produzir
 
 ### 03/09 (quinta)
-- **FORMATO:** Reels/Stories de bastidores
+- **FORMATO:** Reels (feed)
 - **TEMA:** Expansão da FHN
 - **OBJETIVO:** Crescimento
 - **RECORTE / IDEIA DO POST:** Abrir a expectativa pela Ponta Verde a partir do porquê da expansão — sem revelar data.
 - **AÇÃO:** Que pessoas fora da base atual da FHN percebam que uma unidade pode estar chegando perto delas.
 - **STATUS:** A produzir
+- **STORIES DE APOIO:** Cobertura adicional de bastidores da preparação, em complemento ao Reels do feed.
 
 ### 04/09 (sexta)
 - **FORMATO:** Reels/vídeo de rotina *(formato final depende do material captado em agosto)*
@@ -126,12 +129,13 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - **STATUS:** A produzir
 
 ### 10/09 (quinta)
-- **FORMATO:** Stories/vlog *(bastidor, baixo esforço de produção)*
+- **FORMATO:** Reels vlog *(feed, baixo esforço de produção)*
 - **TEMA:** Obra do Farol
 - **OBJETIVO:** Posicionamento
 - **RECORTE / IDEIA DO POST:** Teaser da gravação 1 da obra do Farol — mostrar que a FHN está construindo algo para o futuro, sem revelar o material que será usado na série (a partir de janeiro/2027).
 - **AÇÃO:** Que a pessoa perceba a FHN como marca que investe a longo prazo.
 - **STATUS:** A produzir
+- **STORIES DE APOIO:** Making-of ampliado da gravação, para quem quiser ver mais bastidores no dia.
 
 ### 11/09 (sexta)
 - **FORMATO:** Carrossel ou Card *(formato leve)*
@@ -158,20 +162,22 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - **STATUS:** A produzir
 
 ### 16/09 (quarta)
-- **FORMATO:** Carrossel ou Stories destacado
+- **FORMATO:** Carrossel (feed)
 - **TEMA:** Setembro Amarelo por dentro da FHN
 - **OBJETIVO:** Conexão
 - **RECORTE / IDEIA DO POST:** Mostrar a equipe participando da dinâmica do pote de mensagens, reforçando que a reflexão é genuína.
 - **AÇÃO:** Que a pessoa sinta a campanha como real e se sinta convidada a refletir também.
 - **STATUS:** A produzir
+- **STORIES DE APOIO:** Cobertura ao vivo da dinâmica do pote de mensagens, no dia.
 
 ### 17/09 (quinta)
-- **FORMATO:** Vídeo/Stories de bastidores
+- **FORMATO:** Vídeo/Reels (feed)
 - **TEMA:** Preparação da Ponta Verde
 - **OBJETIVO:** Autoridade
 - **RECORTE / IDEIA DO POST:** Mostrar o cuidado da equipe na preparação da nova unidade — bastidores, não anúncio.
 - **AÇÃO:** Que a pessoa associe a nova unidade ao mesmo cuidado técnico que já reconhece na FHN.
 - **STATUS:** A produzir
+- **STORIES DE APOIO:** Bastidores extras da preparação da Ponta Verde.
 
 ### 18/09 (sexta)
 - **FORMATO:** Reels/vídeo
@@ -182,12 +188,13 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - **STATUS:** A produzir
 
 ### 21/09 (segunda)
-- **FORMATO:** Stories/Carrossel de bastidores
+- **FORMATO:** Carrossel (feed)
 - **TEMA:** Como a FHN decide os próximos ativos do ciclo
 - **OBJETIVO:** Autoridade
 - **RECORTE / IDEIA DO POST:** Mostrar (sem revelar os ativos em si) os bastidores do critério usado por Liliane para definir o próximo ciclo — processo, não resultado.
 - **AÇÃO:** Que a pessoa perceba que os produtos da FHN não são escolhidos por acaso.
 - **STATUS:** A produzir *(coincide com o prazo de definição do ciclo out/nov/dez/jan em `pipeline-de-conteudo.md` — não antecipar os ativos escolhidos, ainda não confirmados nesta data)*
+- **STORIES DE APOIO:** Bastidores do dia da decisão, sem revelar os ativos escolhidos.
 
 ### 22/09 (terça)
 - **FORMATO:** Carrossel (comparação)
@@ -222,12 +229,13 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - **STATUS:** A produzir
 
 ### 28/09 (segunda)
-- **FORMATO:** Stories
+- **FORMATO:** Carrossel (feed)
 - **TEMA:** Reta final do Setembro Amarelo
 - **OBJETIVO:** Conexão
-- **RECORTE / IDEIA DO POST:** Criar expectativa para a retrospectiva de 30/09, reforçando o que a campanha trouxe até aqui.
-- **AÇÃO:** Que a pessoa acompanhe o fechamento da campanha em 30/09.
+- **RECORTE / IDEIA DO POST:** Recapitular os momentos já vividos na campanha (Luciana em História dos Líderes, pote de mensagens da equipe), preparando a retrospectiva de 30/09 — a vaga principal do dia passa a ser um recap de feed, não apenas Stories.
+- **AÇÃO:** Que a pessoa reviva o que já foi mostrado e acompanhe o fechamento em 30/09.
 - **STATUS:** A produzir
+- **STORIES DE APOIO:** Contagem regressiva para a retrospectiva de 30/09.
 
 ### 29/09 (terça)
 - **FORMATO:** Reels ou Carrossel
@@ -320,3 +328,5 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - ✅ Lógica editorial de dias da FHN respeitada como orientação de tema (segunda = marca e pessoas, terça = produto, quarta = produto ou loja, quinta = loja/expansão/obra, sexta = conexão/rotina/parceiros/histórias reais); o objetivo de cada publicação foi definido pela função estratégica real, não pelo dia da semana.
 - Nenhuma repetição de pauta identificada em relação ao `historico.md`.
 - `historico.md` **não foi atualizado** nesta etapa — só deve ser atualizado após aprovação e/ou execução deste planejamento.
+- ✅ **Regra Feed x Stories**: nenhuma das 22 vagas principais depende exclusivamente de Stories. Os 6 dias que estavam com Stories como formato ambíguo ou exclusivo (03/09, 10/09, 16/09, 17/09, 21/09, 28/09) foram corrigidos para formato de feed, com Stories reposicionado como camada de apoio onde fazia sentido. Nenhuma vaga principal foi reduzida por causa dessa correção — seguem 22.
+- ✅ **Regra de preservação do planejamento original**: as 7 pautas do planejamento original de setembro da FHN (Setembro Amarelo — dinâmica/pote de mensagens, retrospectiva/CVV 188, MoroProtein, Ponta Verde, Cíntia, Luciana, Mariana Rocha) seguem todas presentes — nenhuma foi excluída ou substituída silenciosamente. Auditoria completa de correspondência apresentada à agência antes desta revisão.
