@@ -6,6 +6,8 @@
 >
 > **Revisão adicional (auditoria Feed x Stories):** Stories não ocupam vaga do calendário principal de feed — apenas apoio, bastidor, cobertura ou complemento. Seis dias que estavam com Stories como formato ambíguo ou exclusivo (03/09, 10/09, 16/09, 17/09, 21/09, 28/09) foram corrigidos para um formato de feed, com Stories reposicionado como camada de apoio quando fizer sentido. Nenhuma pauta do planejamento original da FHN foi removida nesta revisão — auditoria de correspondência disponível no histórico da conversa com a agência.
 >
+> **Revisão adicional (correção de fidelidade e captação x publicação):** 16/09 voltou a citar Luciana explicitamente na dinâmica do pote de mensagens, corrigindo uma imprecisão da rodada anterior. 10/09, 21/09 e 29/09 deixaram de transformar demandas operacionais (obra do Farol, definição dos ativos do ciclo) ou coincidências de calendário (MoroProtein + Ponta Verde) em publicações sem sustentação editorial nas fontes, e foram substituídos por pautas respaldadas por `posicionamento.md` e `regras-de-conteudo.md`. 11/09 deixou de atribuir à FHN um papel clínico/de escuta não sustentado pelas fontes. 22/09 deixou de comparar manipulado a industrializado de forma direta, evitando implicar superioridade técnica não validada.
+>
 > Este planejamento usa os **OBJETIVOS DE CONTEÚDO** do Método Agú (Autoridade, Conexão, Posicionamento, Crescimento, Oferta) — terminologia oficial da fonte, não "pilares" — e a fórmula **TEMA + OBJETIVO + RECORTE + FORMATO + AÇÃO** para cada conteúdo. A lógica editorial de dias da FHN (`estrategia-editorial.md`) orienta o **tema** de cada dia; o **objetivo** de cada publicação é definido pela função estratégica real do conteúdo, conforme o Método Agú.
 
 ## Itens [CONFIRMAR] que impactam setembro
@@ -47,11 +49,11 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 
   | Objetivo de conteúdo | Publicações no mês | Por quê |
   |---|---|---|
-  | Conexão | 8 | Setembro Amarelo e as séries recorrentes (Luciana, Cíntia, Mariana Rocha, pote de mensagens da equipe) concentram o maior volume de histórias reais do mês — mas revisado para baixo em relação à versão anterior (8/16 → 8/22), reclassificando conteúdos que na verdade funcionavam como Posicionamento ou Crescimento. |
-  | Posicionamento | 5 | Abertura e retrospectiva do Setembro Amarelo, o contraponto "manipulado vs. industrializado", a visão de futuro do Farol e a reflexão sobre escuta como cuidado — momentos em que a FHN declara o que defende, não apenas mostra o que faz. |
-  | Autoridade | 5 | Prova técnica por trás do crescimento: formulação do MoroProtein, bastidores da farmácia, preparação da Ponta Verde e o processo de decisão dos ativos do ciclo. |
+  | Conexão | 9 | Setembro Amarelo e as séries/pessoas reais do mês (Luciana em dose dupla — História dos Líderes e pote de mensagens —, Cíntia, Mariana Rocha, a equipe no dia a dia, Rafaela) concentram o maior volume de histórias reais. |
+  | Posicionamento | 5 | Abertura e retrospectiva do Setembro Amarelo, a identidade de farmácia de manipulação, os valores por trás da expansão para a Ponta Verde e a divulgação do CVV 188 — momentos em que a FHN declara o que defende, não apenas mostra o que faz. |
+  | Autoridade | 5 | Prova técnica: formulação do MoroProtein, bastidores da farmácia, preparação da Ponta Verde e o processo de validação profissional dos conteúdos técnicos. |
   | Crescimento | 2 | Os dois momentos de expansão geográfica em si — expectativa pela Ponta Verde e o teaser de "algo novo chegando" — pensados para alcançar quem ainda não conhece a FHN. |
-  | Oferta | 2 | Os dois momentos realmente comerciais do mês: lançamento do MoroProtein e o fechamento da narrativa de lançamento conectando produto e nova unidade. |
+  | Oferta | 1 | O único momento realmente comercial do mês com publicação própria: o lançamento do MoroProtein. Um segundo momento de oferta foi avaliado (conectar produto e nova unidade em 29/09) e descartado por não ter sustentação real nas fontes além de coincidirem no calendário. |
 
   > Sem obrigação de 1 objetivo por dia nem partes iguais. A lógica editorial de dias da FHN (segunda a sexta) orienta o **tema** de cada publicação; o **objetivo** é definido pela função estratégica real de cada conteúdo — por isso publicações de sexta-feira (tema Conexão) podem ter objetivo Posicionamento quando a função real é declarar uma postura, não contar uma história específica, e vice-versa.
 
@@ -62,8 +64,8 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
   | 01/09 | Início do arco de lançamento do MoroProtein | Calendário |
   | 07/09 | Abertura da campanha Setembro Amarelo | Calendário |
   | 08–11/09 | Janela de captação em Arapiraca (parceiros set–jan + 6 Médicas de Verão) | Operação |
-  | Meados de setembro | Confirmação dos ativos do ciclo out/nov/dez/jan — responsável Liliane | Operação (com reflexo no calendário em 21/09) |
-  | Primeira quinzena de setembro | Obra do Farol — gravação 1 (Tati) | Operação (com reflexo no calendário em 10/09) |
+  | Meados de setembro | Confirmação dos ativos do ciclo out/nov/dez/jan — responsável Liliane | Operação apenas — sem reflexo no calendário de setembro (decisão interna, sem valor de publicação claro para o público) |
+  | Primeira quinzena de setembro | Obra do Farol — gravação 1 (Tati) | Operação apenas — sem reflexo no calendário de setembro (material reservado para a série a partir de janeiro/2027) |
   | [CONFIRMAR DATA] | Inauguração da Ponta Verde — dia exato não informado pela fonte | Conteúdo condicional, fora dos 22 dias fixos |
   | 30/09 | Encerramento e retrospectiva do Setembro Amarelo (CVV 188) | Calendário |
 
@@ -129,20 +131,19 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - **STATUS:** A produzir
 
 ### 10/09 (quinta)
-- **FORMATO:** Reels vlog *(feed, baixo esforço de produção)*
-- **TEMA:** Obra do Farol
+- **FORMATO:** Carrossel (feed)
+- **TEMA:** Por que mais uma casa FHN
 - **OBJETIVO:** Posicionamento
-- **RECORTE / IDEIA DO POST:** Teaser da gravação 1 da obra do Farol — mostrar que a FHN está construindo algo para o futuro, sem revelar o material que será usado na série (a partir de janeiro/2027).
-- **AÇÃO:** Que a pessoa perceba a FHN como marca que investe a longo prazo.
+- **RECORTE / IDEIA DO POST:** Declarar os valores por trás da expansão para a Ponta Verde — proximidade e cuidado replicado, não crescimento pelo crescimento (fonte: "comunicação deve enfatizar proximidade e valores").
+- **AÇÃO:** Que a pessoa entenda que a expansão da FHN é orientada por valores, não só por oportunidade comercial.
 - **STATUS:** A produzir
-- **STORIES DE APOIO:** Making-of ampliado da gravação, para quem quiser ver mais bastidores no dia.
 
 ### 11/09 (sexta)
-- **FORMATO:** Carrossel ou Card *(formato leve)*
-- **TEMA:** Escuta como parte do cuidado
+- **FORMATO:** Card *(formato leve)*
+- **TEMA:** Um número que pode ajudar
 - **OBJETIVO:** Posicionamento
-- **RECORTE / IDEIA DO POST:** Dentro do mês de conscientização, declarar que acompanhamento e escuta fazem parte do cuidado prestado pela FHN — sem citar nome de profissional específico.
-- **AÇÃO:** Que a pessoa associe a FHN a um cuidado que ouve, não só que vende.
+- **RECORTE / IDEIA DO POST:** Divulgar o CVV 188 como recurso de apoio, dentro do mês de conscientização — não como serviço da FHN, apenas informação de utilidade pública que a marca escolhe amplificar (fonte: "CVV 188 quando pertinente"). Sem atribuir à FHN papel clínico ou de acompanhamento.
+- **AÇÃO:** Que a pessoa guarde o número e perceba que a FHN prioriza isso mesmo em um mês comercialmente importante.
 - **STATUS:** A produzir
 
 ### 14/09 (segunda)
@@ -165,7 +166,7 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - **FORMATO:** Carrossel (feed)
 - **TEMA:** Setembro Amarelo por dentro da FHN
 - **OBJETIVO:** Conexão
-- **RECORTE / IDEIA DO POST:** Mostrar a equipe participando da dinâmica do pote de mensagens, reforçando que a reflexão é genuína.
+- **RECORTE / IDEIA DO POST:** Mostrar Luciana conduzindo, com a equipe, a dinâmica do pote de mensagens — reforçando que a reflexão é genuína e vem de dentro da casa.
 - **AÇÃO:** Que a pessoa sinta a campanha como real e se sinta convidada a refletir também.
 - **STATUS:** A produzir
 - **STORIES DE APOIO:** Cobertura ao vivo da dinâmica do pote de mensagens, no dia.
@@ -188,20 +189,19 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - **STATUS:** A produzir
 
 ### 21/09 (segunda)
-- **FORMATO:** Carrossel (feed)
-- **TEMA:** Como a FHN decide os próximos ativos do ciclo
-- **OBJETIVO:** Autoridade
-- **RECORTE / IDEIA DO POST:** Mostrar (sem revelar os ativos em si) os bastidores do critério usado por Liliane para definir o próximo ciclo — processo, não resultado.
-- **AÇÃO:** Que a pessoa perceba que os produtos da FHN não são escolhidos por acaso.
-- **STATUS:** A produzir *(coincide com o prazo de definição do ciclo out/nov/dez/jan em `pipeline-de-conteudo.md` — não antecipar os ativos escolhidos, ainda não confirmados nesta data)*
-- **STORIES DE APOIO:** Bastidores do dia da decisão, sem revelar os ativos escolhidos.
+- **FORMATO:** Carrossel ou Reels (feed)
+- **TEMA:** Quem faz a FHN acontecer
+- **OBJETIVO:** Conexão
+- **RECORTE / IDEIA DO POST:** Mostrar a equipe da FHN no dia a dia, para além da campanha de setembro — pilar institucional recorrente (fonte: posicionamento.md — "equipe e cultura interna"), reforçando que a marca é feita de gente real.
+- **AÇÃO:** Que a pessoa veja rostos reais por trás da marca, reforçando proximidade.
+- **STATUS:** A produzir
 
 ### 22/09 (terça)
-- **FORMATO:** Carrossel (comparação)
-- **TEMA:** Manipulado x industrializado
+- **FORMATO:** Carrossel (feed)
+- **TEMA:** Por que a FHN manipula
 - **OBJETIVO:** Posicionamento
-- **RECORTE / IDEIA DO POST:** Assumir o contraponto que diferencia a FHN — o que muda quando um produto é feito sob medida.
-- **AÇÃO:** Que a pessoa entenda por que a manipulação é a escolha que a FHN defende.
+- **RECORTE / IDEIA DO POST:** Explicar a escolha e a identidade da FHN como farmácia de manipulação, com foco em personalização do cuidado — sem comparar diretamente com industrializados nem fazer afirmações técnicas de superioridade não sustentadas pelas fontes.
+- **AÇÃO:** Que a pessoa entenda a manipulação como a forma da FHN de personalizar cuidado, não como uma disputa técnica.
 - **STATUS:** A produzir
 
 ### 23/09 (quarta)
@@ -221,11 +221,11 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - **STATUS:** A produzir
 
 ### 25/09 (sexta)
-- **FORMATO:** Carrossel
-- **TEMA:** Rotina de cuidado e saúde mental
+- **FORMATO:** Reels curto (feed)
+- **TEMA:** Rafaela se preparando para a Maratona do Rio
 - **OBJETIVO:** Conexão
-- **RECORTE / IDEIA DO POST:** Conectar as histórias reais já mostradas no mês (Mariana Rocha, Cíntia) com o tema do Setembro Amarelo, preparando o terreno emocional para a retrospectiva de 30/09.
-- **AÇÃO:** Que a pessoa perceba que cuidar da rotina também é cuidar da mente.
+- **RECORTE / IDEIA DO POST:** Aparição leve da Rafaela (farmacêutica de Arapiraca) treinando para a Maratona do Rio — pilar "performance, esporte e vida ativa" (posicionamento.md), ainda não explorado no mês. Não antecipa a História dos Líderes completa dela, prevista para outubro.
+- **AÇÃO:** Que a pessoa conheça um pouco da Rafaela e queira acompanhar a jornada dela.
 - **STATUS:** A produzir
 
 ### 28/09 (segunda)
@@ -238,11 +238,11 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 - **STORIES DE APOIO:** Contagem regressiva para a retrospectiva de 30/09.
 
 ### 29/09 (terça)
-- **FORMATO:** Reels ou Carrossel
-- **TEMA:** Fechamento do mês de lançamento
-- **OBJETIVO:** Oferta
-- **RECORTE / IDEIA DO POST:** Fechar a narrativa do lançamento conectando o MoroProtein à nova unidade — a mesma FHN de sempre, também na Ponta Verde.
-- **AÇÃO:** Que a pessoa associe o produto e a nova unidade como parte da mesma expansão.
+- **FORMATO:** Carrossel (feed)
+- **TEMA:** Como a FHN garante informação segura
+- **OBJETIVO:** Autoridade
+- **RECORTE / IDEIA DO POST:** Mostrar, em linhas gerais, que conteúdos técnicos e de saúde da FHN passam por validação profissional antes de ir ao ar (fonte: regras-de-conteudo.md) — reforça responsabilidade, especialmente relevante às vésperas do encerramento do Setembro Amarelo. O lançamento/uso real do MoroProtein (01, 02, 15/09) já sustenta a narrativa do produto sem precisar de uma quarta publicação.
+- **AÇÃO:** Que a pessoa confie que o que a FHN comunica sobre saúde é responsável e checado.
 - **STATUS:** A produzir
 
 ### 30/09 (quarta)
@@ -283,13 +283,13 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 
 **A captar**
 - Janela de captação em Arapiraca (8–11/09): parceiros previstos para setembro–janeiro e as 6 "Médicas de Verão" (conteúdo técnico, com validação profissional obrigatória). Publicação em meses futuros, não em setembro.
-- Obra do Farol — gravação 1 (primeira quinzena de setembro) — responsável: Tati. Entra na série do Farol, publicada a partir de janeiro/2027. O calendário de 10/09 usa um teaser dessa gravação, sem revelar o material.
+- Obra do Farol — gravação 1 (primeira quinzena de setembro) — responsável: Tati. Entra na série do Farol, publicada a partir de janeiro/2027. **Sem publicação de feed em setembro** — sem justificativa editorial nas fontes para antecipar esse material, que está reservado para a série futura.
 
 **A aprovar**
 - Roteiros dos conteúdos técnicos das 6 "Médicas de Verão" — exigem validação profissional antes da captação.
 
 **A definir**
-- Ativos do ciclo out/nov/dez/jan — responsável: Liliane; prazo: meados de setembro. Bloqueia a série Produto de outubro a janeiro até ser confirmado. O calendário de 21/09 mostra o processo de decisão, sem antecipar o resultado.
+- Ativos do ciclo out/nov/dez/jan — responsável: Liliane; prazo: meados de setembro. Bloqueia a série Produto de outubro a janeiro até ser confirmado. **Sem publicação de feed em setembro** — é uma decisão interna, sem valor de publicação claro para o público neste momento.
 - Data exata da inauguração da Ponta Verde **[CONFIRMAR DATA]** — bloqueia os dois conteúdos condicionais listados acima.
 
 **Prazos**
@@ -319,14 +319,16 @@ Demais pendências do pipeline (data dos 43 anos, inauguração do Farol, ordem 
 
 - ✅ Calendário contempla os 22 dias úteis de setembro/2026, segunda a sexta, sem exceção — conforme a regra de frequência de `estrategia-editorial.md`.
 - ✅ Nenhum conteúdo foi criado apenas para preencher um dia — os dias de menor disponibilidade de produção (semana da janela de Arapiraca) usam formatos leves (card, Stories) já previstos na própria regra de frequência, mantendo função estratégica real.
-- ✅ Todas as pautas obrigatórias do pipeline foram contempladas: Setembro Amarelo (abertura, pote de mensagens, reta final, retrospectiva, CVV 188), lançamento MoroProtein, inauguração Ponta Verde (condicional), História dos Líderes (Luciana), Rotinas que Inspiram (Cíntia), Mariana Rocha, captação em Arapiraca, gravação 1 da obra do Farol, definição dos ativos do ciclo, briefing da Rafaela.
-- ✅ Concentração de Conexão revisada: de 8/16 (50%) na versão anterior para 8/22 (36%) nesta versão, reclassificando conteúdos cuja função real era Posicionamento ou Crescimento, não identificação com uma história específica.
-- ✅ Objetivos distribuídos pela função estratégica real de cada conteúdo, sem obrigação de 1 por dia nem partes iguais — Autoridade (5) e Posicionamento (5) ganharam peso por causa da prova técnica e das declarações de postura que o mês exige.
-- ✅ MoroProtein com 4 publicações ao longo do mês (01/09, 02/09, 15/09, 29/09), cada uma com objetivo e função diferentes — sem sequência repetitiva.
+- ✅ Todas as pautas obrigatórias do pipeline foram contempladas: Setembro Amarelo (abertura, pote de mensagens com Luciana, reta final, retrospectiva, CVV 188), lançamento MoroProtein, inauguração Ponta Verde (condicional), História dos Líderes (Luciana), Rotinas que Inspiram (Cíntia), Mariana Rocha. Captação em Arapiraca, gravação 1 da obra do Farol e definição dos ativos do ciclo seguem só em Operação — sem publicação de feed em setembro, por não haver justificativa editorial nas fontes para antecipá-las.
+- ✅ Concentração de Conexão: 9/22 (41%) nesta versão — Luciana passou a aparecer com sua participação correta na dinâmica do pote de mensagens (16/09), além da História dos Líderes (14/09).
+- ✅ Objetivos distribuídos pela função estratégica real de cada conteúdo, sem obrigação de 1 por dia nem partes iguais.
+- ✅ MoroProtein com 3 publicações ao longo do mês (01/09, 02/09, 15/09) — lançamento, autoridade e uso real já sustentam a narrativa; a quarta publicação cogitada em 29/09 foi descartada por não ter sustentação real além de coincidir no calendário com a Ponta Verde.
+- ✅ Nenhuma pauta foi transformada em conteúdo apenas por ser uma demanda operacional: obra do Farol e definição dos ativos do ciclo permanecem só em Operação do Período.
+- ✅ Nenhuma afirmação técnica ou comparação de superioridade entre manipulado e industrializado; nenhuma atribuição de papel clínico à FHN (Setembro Amarelo mantido como divulgação do CVV 188, não como serviço de escuta/acompanhamento).
 - ✅ Nenhuma data foi inventada: a inauguração da Ponta Verde e o conteúdo dela dependente ficam como conteúdos condicionais, marcados `[CONFIRMAR DATA]`, fora dos 22 dias fixos.
 - ✅ O formato antigo da FHN não foi usado como referência de estrutura — apenas `modelos/modelo-planejamento.md`, com campos adaptados à fórmula do Método Agú.
 - ✅ Lógica editorial de dias da FHN respeitada como orientação de tema (segunda = marca e pessoas, terça = produto, quarta = produto ou loja, quinta = loja/expansão/obra, sexta = conexão/rotina/parceiros/histórias reais); o objetivo de cada publicação foi definido pela função estratégica real, não pelo dia da semana.
 - Nenhuma repetição de pauta identificada em relação ao `historico.md`.
 - `historico.md` **não foi atualizado** nesta etapa — só deve ser atualizado após aprovação e/ou execução deste planejamento.
 - ✅ **Regra Feed x Stories**: nenhuma das 22 vagas principais depende exclusivamente de Stories. Os 6 dias que estavam com Stories como formato ambíguo ou exclusivo (03/09, 10/09, 16/09, 17/09, 21/09, 28/09) foram corrigidos para formato de feed, com Stories reposicionado como camada de apoio onde fazia sentido. Nenhuma vaga principal foi reduzida por causa dessa correção — seguem 22.
-- ✅ **Regra de preservação do planejamento original**: as 7 pautas do planejamento original de setembro da FHN (Setembro Amarelo — dinâmica/pote de mensagens, retrospectiva/CVV 188, MoroProtein, Ponta Verde, Cíntia, Luciana, Mariana Rocha) seguem todas presentes — nenhuma foi excluída ou substituída silenciosamente. Auditoria completa de correspondência apresentada à agência antes desta revisão.
+- ✅ **Regra de preservação do planejamento original**: as 7 pautas do planejamento original de setembro da FHN (Setembro Amarelo — dinâmica com Luciana e pote de mensagens, retrospectiva/CVV 188, MoroProtein, Ponta Verde, Cíntia, Luciana em História dos Líderes, Mariana Rocha) seguem todas presentes — nenhuma foi excluída, substituída ou descaracterizada. 16/09 corrigido para citar Luciana explicitamente, conforme aprovação da agência.
