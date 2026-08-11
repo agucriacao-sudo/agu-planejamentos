@@ -13,7 +13,7 @@
 - **Data exata da inauguração da Ponta Verde** — o calendário editorial coloca "Ponta Verde · a nova unidade" em 02/09, mas isso foi interpretado aqui como conteúdo de **apresentação** da unidade, não como a data confirmada da inauguração em si (que nenhuma fonte informa). **[CONFIRMAR]** com a agência: 02/09 é apresentação/expectativa, ou já existe uma data real de abertura que deva substituir isso? Até confirmação, a inauguração real segue como conteúdo condicional, sem data.
 - **Parceiros de 11/09, 18/09 e 25/09** — o calendário editorial reserva esses dias para conteúdo de parceiro/Conexão, mas não nomeia quem. **[INFORMAÇÃO NECESSÁRIA]** — sem produção até a definição do nome; por decisão da agência, esses dias não recebem conteúdo substituto inventado.
 - **Responsável e prazo formal de roteirização** dos conteúdos da janela de Arapiraca (8–11/09) — segue sem definição nas fontes. **[INFORMAÇÃO NECESSÁRIA]**.
-- **Gravação Obra Farol** — o pipeline antigo (`pipeline-de-conteudo.md`) indicava "primeira quinzena de setembro"; o calendário editorial oficial fixa em **24/09**. Sinalizado aqui; `pipeline-de-conteudo.md` não foi alterado nesta rodada — atualização a fazer em etapa separada, se aprovada.
+- ✅ **Gravação Obra Farol** — `pipeline-de-conteudo.md` foi atualizado (data corrigida de "primeira quinzena de setembro" para **24/09/2026**, conforme o calendário editorial oficial). Conflito resolvido.
 
 **Decisão já tomada pela agência:** 07/09 (feriado), 16/09, 21/09 e 29/09 não têm pauta no calendário editorial oficial e **ficam sem publicação neste mês, por decisão explícita da agência** — exceção pontual à regra permanente de `estrategia-editorial.md` (que prevê justamente esse tipo de exceção mediante orientação explícita da Agência Agú), não uma mudança da regra em si.
 
@@ -248,7 +248,7 @@ Demais pendências do pipeline (data dos 43 anos, ordem dos parceiros do Natal, 
 
 **A captar**
 - Janela de captação em Arapiraca (8–11/09): parceiros previstos para meses futuros e as 6 "Médicas de Verão" (conteúdo técnico, com validação profissional obrigatória). Banner sobre 08/09 no calendário editorial — não é publicação. Publicação em meses futuros.
-- Obra do Farol — Gravação, **24/09** (data do calendário editorial oficial — corrige a estimativa "primeira quinzena de setembro" do `pipeline-de-conteudo.md` antigo; atualização desse arquivo pendente de aprovação separada). Entra na série do Farol, publicada a partir de janeiro/2027.
+- Obra do Farol — Gravação, **24/09** (data do calendário editorial oficial; `pipeline-de-conteudo.md` já atualizado para refletir essa data). Entra na série do Farol, publicada a partir de janeiro/2027.
 
 **A aprovar**
 - Roteiros dos conteúdos técnicos das 6 "Médicas de Verão" — exigem validação profissional antes da captação.
@@ -288,5 +288,5 @@ Demais pendências do pipeline (data dos 43 anos, ordem dos parceiros do Natal, 
 - ✅ Nenhuma data foi inventada: a inauguração real da Ponta Verde segue condicional, sem dia atribuído.
 - ✅ Rafaela removida de setembro — não é pauta deste mês na fonte correta (confirmada para 05/10).
 - ✅ O formato antigo da FHN não foi usado como referência de estrutura — apenas `modelos/modelo-planejamento.md`, com campos adaptados à fórmula do Método Agú.
-- Conflito sinalizado (não resolvido nesta rodada): data da Gravação Obra Farol diverge entre `pipeline-de-conteudo.md` (primeira quinzena) e o calendário editorial oficial (24/09) — pipeline não alterado sem aprovação separada.
+- ✅ Conflito de data da Gravação Obra Farol resolvido: `pipeline-de-conteudo.md` atualizado para 24/09/2026, com nota registrando o calendário editorial oficial como fonte prioritária em casos de conflito com previsões genéricas anteriores.
 - `historico.md` **não foi atualizado** nesta etapa.

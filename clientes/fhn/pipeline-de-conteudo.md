@@ -5,6 +5,8 @@
 > Datas e nomes marcados com **[CONFIRMAR]** não devem ser tratados como definitivos até validação.
 >
 > Antes de gerar um planejamento mensal, ver o checklist completo em `informacoes.md` — verificar apenas as pendências que impactam o mês solicitado, sem bloquear o planejamento por pendências secundárias.
+>
+> **Fonte prioritária:** quando o calendário editorial oficial da FHN (PDF "Calendário editorial set 2026 → jan 2027", fornecido pela agência) especificar uma data ou pauta de forma mais precisa do que uma previsão genérica registrada aqui, o calendário editorial oficial prevalece. Este arquivo é atualizado para refletir essa fonte quando o conflito for identificado.
 
 ## Regra geral de produção antecipada
 
@@ -33,7 +35,7 @@ Janela principal de captação do período. Cobre:
 - tudo deve estar roteirizado antes da janela.
 
 ### Obra do Farol (captação em série)
-- Gravação 1: primeira quinzena de setembro/2026.
+- Gravação 1: **24/09/2026** (data confirmada pelo calendário editorial oficial, substitui a estimativa anterior de "primeira quinzena de setembro").
 - Gravação 2: outubro/2026.
 - Gravação 3: primeira quinzena de dezembro/2026.
 - Responsável pela captação: Tati.
@@ -55,7 +57,7 @@ Janela principal de captação do período. Cobre:
   - Gravar Mariana Rocha até 31/08.
   - Janela de captação em Arapiraca: 8–11/09.
   - Confirmar ativos do ciclo (out/nov/dez/jan) na primeira semana — responsável: Liliane.
-  - Obra Farol — gravação 1, primeira quinzena.
+  - Obra Farol — gravação 1, **24/09** (data confirmada pelo calendário editorial oficial).
   - Retrospectiva Setembro Amarelo em 30/09.
   - Briefing da Rafaela na Maratona do Rio ao longo do mês.
 
