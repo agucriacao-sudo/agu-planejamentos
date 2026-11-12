@@ -37,14 +37,11 @@
 - Todo dado clínico e todo conteúdo com paciente passam pela Bruna antes de publicar.
 - Fluxo de aprovação no Trello: Planejamento → Copy → Revisão [Aline] → Arte → Vídeo → Ajuste → Aprovação interna → Aprovação cliente → Agendar → Finalizado.
 
-## Regras de copy da agência aplicadas nas rotinas
+## Regras de copy
 
-- Sem travessão e sem aspas em texto visível.
-- Sem a estrutura "não é X, é Y".
+- Valem as regras gerais da agência em `metodo-agu/criterios-de-conteudo.md` (sem travessão, sem aspas em texto visível, sem "não é X, é Y").
 - Sem jargão de marketing.
 - Uma CTA por peça.
-
-> Essas regras vêm do padrão usado nos radares da agência. Se forem regra oficial do Método Agú, devem ser registradas em `metodo-agu/`. [CONFIRMAR]
 
 ---
 *Fonte: Auditoria Completa de Instagram e Relatório Instagram de @brunalimaendocrino (04/11/2026), rotina de alertas do Trello e regras dos radares diários da agência.*

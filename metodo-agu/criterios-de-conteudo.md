@@ -45,5 +45,13 @@ Frase, aviso, dado, oferta objetiva e identidade visual.
 ### Stories
 Relacionamento, bastidor, frequência, interação e venda cotidiana.
 
+## Regras de copy
+
+Regras gerais de escrita, válidas para todos os clientes e para toda peça (posts, legendas, roteiros, carrosséis, stories, ganchos e textos de tela):
+
+- **Sem travessão.** Não usar travessão nem meia-risca em nenhum texto.
+- **Sem aspas em texto visível.** Vale também para ganchos e textos de tela.
+- **Sem a estrutura "não é X, é Y".** Afirmar primeiro o que é, sem negar antes.
+
 ---
-*Fonte: Método Agú — linha editorial e formato, fornecido pela agência em agosto/2026.*
+*Fonte: Método Agú — linha editorial e formato, fornecido pela agência em agosto/2026. Regras de copy confirmadas pela agência como regra geral em 12/11/2026.*
